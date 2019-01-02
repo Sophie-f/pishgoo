@@ -1,0 +1,42 @@
+header {
+    /* flex: 4 auto; */
+    background: linear-gradient( #060c0c, #525454);
+    /* background: linear-gradient(#051118,#5C373C); */
+    color:  #5AADB0;
+    padding: 20px 50px;
+    font-size: x-large;
+    text-align: center;
+    border: thin #092433 inset;
+    box-shadow: -1px -1px 6px #888888;
+}
+body {
+    /* display: flex;
+    flex-flow: row wrap; */
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+
+#explain{
+    background-color:  #5B8182;
+    margin: 10px 5px;
+    padding: 10px 10px;
+    border: thin #092433 inset;
+}  
+#submit {
+    border: 1px outset;
+    margin: 10px 10px;
+    padding: 5px 10px;
+    color:#000;
+    background-color: #dddd;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+fieldset {
+    margin: 10px 30px;
+    padding: 4px;
+    
+
+}
